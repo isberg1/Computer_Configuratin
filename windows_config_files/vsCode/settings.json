@@ -1,9 +1,57 @@
 {
-    "liveServer.settings.donotShowInfoMsg": true,
-    "editor.formatOnSave": true,
-    "editor.tabCompletion": "on",
-    "editor.mouseWheelZoom": true,
-    "editor.minimap.enabled": false,
-    "window.zoomLevel": 0,
-    "explorer.confirmDelete": false
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.mouseWheelZoom": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "window.zoomLevel": 1.9,
+  "update.showReleaseNotes": false,
+  "editor.parameterHints.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.tree.indent": 20,
+  "git.enableSmartCommit": true,
+  "editor.minimap.enabled": false,
+  "diffEditor.renderSideBySide": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "gitlens.codeLens.scopes": ["document", "containers"],
+  "cSpell.userWords": [
+    "ESNEXT",
+    "Swipeable",
+    "commandline",
+    "downlevel",
+    "ondataavailable",
+    "tslib",
+    "typechecking"
+  ],
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "svg.preview.mode": "svg",
+  "workbench.activityBar.visible": true,
+  "prettier.printWidth": 85,
+  "json.maxItemsComputed": 20000,
+  "workbench.colorTheme": "Abyss",
+  "breadcrumbs.enabled": true,
+  "editor.renderControlCharacters": false,
+  "files.eol": "\n",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "java.semanticHighlighting.enabled": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "editor.minimap.maxColumn": 85,
+  "npm.scriptExplorerAction": "run",
+  "explorer.compactFolders": false,
+  "explorer.confirmDelete": false,
+  "editor.fontFamily": "'Comic Sans MS', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": null
 }
