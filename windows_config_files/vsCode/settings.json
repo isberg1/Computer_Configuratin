@@ -2,7 +2,6 @@
   "liveServer.settings.donotShowInfoMsg": true,
   "editor.mouseWheelZoom": true,
   "workbench.startupEditor": "newUntitledFile",
-  "window.zoomLevel": 1.9,
   "update.showReleaseNotes": false,
   "editor.parameterHints.enabled": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
@@ -27,7 +26,7 @@
   "workbench.activityBar.visible": true,
   "prettier.printWidth": 85,
   "json.maxItemsComputed": 20000,
-  "workbench.colorTheme": "Abyss",
+  "workbench.colorTheme": "Monokai Dimmed",
   "breadcrumbs.enabled": true,
   "editor.renderControlCharacters": false,
   "files.eol": "\n",
@@ -52,6 +51,15 @@
   "npm.scriptExplorerAction": "run",
   "explorer.compactFolders": false,
   "explorer.confirmDelete": false,
-  "editor.fontFamily": "'Comic Sans MS', Consolas, 'Courier New', monospace",
-  "editor.fontLigatures": null
+  "editor.fontFamily": "'ubuntu', Comic Sans MS', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": null,
+  "window.zoomLevel": 1.9,
+  "editor.snippetSuggestions": "top",
+  "terminal.integrated.fontFamily": "monospace",
+  "terminal.integrated.fontSize": 13,
+  "workbench.colorCustomizations": {
+    "[Monokai Dimmed]": {
+      "editor.selectionBackground": "#ffd90023"
+    }
+  }
 }
